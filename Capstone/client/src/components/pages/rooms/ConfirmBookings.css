@@ -1,0 +1,22 @@
+.form1{
+    display: flex;
+    width:50%;
+}
+.upload{
+  margin: "4px 0 0 0";
+}
+.checkbox1{
+  transform: scale(2);
+}
+.text1{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+
+
+.text1:focus {
+    border: 3px solid #555;
+}
